@@ -1,17 +1,19 @@
 
 /* TODO Серьезная работа над styles.css*/
+/* я работаю не дави) */
 
-
-.header {
+.header{
     background: url(http://nevseoboi.com.ua/uploads/posts/2012-04/1335709755-2091448-0076969_www.nevseoboi.com.ua.jpg);
 }
 .li{
-    color: blue;
+  color: #FF4500;
 }
-
+div{
+  background: url(https://mota.ru/upload/wallpapers/source/2013/10/16/16/00/37749/GfCF6F8zDn.jpg);
+}
 p{
-    color: blue;
+  color: #20B2AA;
 }
 .h11{
-    color: blue;
+  color: #20B2AA;
 }
